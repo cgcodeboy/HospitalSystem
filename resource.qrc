@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/71.png</file>
+        <file>image/72.png</file>
+        <file>image/exit.ico</file>
+        <file>image/open.ico</file>
+        <file>image/openDICOM_DIR.ico</file>
+        <file>image/openVTK.ico</file>
+        <file>image/person.ico</file>
+        <file>image/save.ico</file>
+        <file>image/saveAs.ico</file>
+        <file>image/main2.jpg</file>
+        <file>image/main3.jpg</file>
+        <file>image/doctor.png</file>
+        <file>image/financial.png</file>
+        <file>image/manager.png</file>
+        <file>image/medicine.png</file>
+        <file>image/nurse.png</file>
+        <file>image/feedback.png</file>
+        <file>image/home.png</file>
+        <file>image/login.png</file>
+        <file>image/user.png</file>
+        <file>image/report.png</file>
+        <file>image/person.png</file>
+        <file>image/search.png</file>
+        <file>image/workcenter.png</file>
+        <file>image/news.png</file>
+        <file>image/patient.png</file>
+        <file>image/medicinebottle.png</file>
+        <file>image/financialFile.png</file>
+        <file>image/main1.png</file>
+    </qresource>
+    <qresource prefix="/side">
+        <file>image/side_1.png</file>
+        <file>image/side_2.png</file>
+        <file>image/side_3.png</file>
+        <file>image/side_4.png</file>
+        <file>image/side_5.png</file>
+    </qresource>
+</RCC>

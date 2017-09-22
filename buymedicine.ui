@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>BuyMedicine</class>
+ <widget class="QWidget" name="BuyMedicine">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>265</width>
+    <height>141</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>进购药品</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string>需要购买的药品：</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="medicineName_LB">
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QSpinBox" name="num1_SB"/>
+     </item>
+     <item>
+      <widget class="QSpinBox" name="num2_SB"/>
+     </item>
+     <item>
+      <widget class="QSpinBox" name="num3_SB"/>
+     </item>
+     <item>
+      <widget class="QSpinBox" name="num4_SB"/>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <widget class="QPushButton" name="confirm_BT">
+     <property name="text">
+      <string>确认购买</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
